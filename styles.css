@@ -1,0 +1,51 @@
+img {
+    width: 1000px;
+    height: auto;
+}
+
+body {
+    background-color: rgb(243, 245, 163)
+}
+
+.page-title {
+    font-size: 50px;
+    color: rgb(130, 112, 211);
+    font-family: "Garamond", sans-serif;
+}
+
+.description-heading {
+    font-size: 25px;
+    color:rgb(68, 28, 245);
+    font-family: "Garamond", sans-serif;
+}
+
+.description-para {
+    font-size: 18px;
+    color:rgb(130, 112, 211);
+    font-family: "Garamond", sans-serif;
+}
+
+.section-title {
+    font-size: 40px;
+    color:rgb(68, 28, 245);
+    font-family: "Garamond", sans-serif;
+}
+
+.ingredient-list,
+.step-list {
+    font-size: 18px;
+    color:rgb(130, 112, 211);
+    font-family: "Garamond", sans-serif;
+}
+
+.ingredient-heading {
+    font-size: 22px;
+    color:rgb(68, 28, 245);
+    font-family: "Garamond", sans-serif;
+}
+
+.recipe-list {
+    font-size: 18px;
+    color:rgb(68, 28, 245);
+    font-family: "Garamond", sans-serif;
+}
